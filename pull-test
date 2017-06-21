@@ -1,0 +1,6 @@
+git pull origin
+
+
+it seems like that pull is to fetch from one repository and merge?
+
+pull and push are both for remote repository.
