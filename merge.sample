@@ -2,3 +2,5 @@ now i want to test what happens when i run
    git merge master   in the branch-test branch
 
 before that i need to do some updates to the master branch
+
+Git merges two branches locally, on remote, nothing changes. So in order to make remote repo change, we need to push to remote after merging happens.
